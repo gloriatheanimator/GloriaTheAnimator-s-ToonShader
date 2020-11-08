@@ -1,0 +1,20 @@
+This toon shader was made by GloriaTheAnimator
+for free and open source usage 
+you can modify it as you wish
+all i ask in return is that when you use it to credit me (GloriaTheAnimator) for the free shader
+
+you can preview how the shader works under difrent lighing conditions by
+checking/unchecking the premade light collections, or by moving the lights
+
+thank you for using this little toon shader <3
+
+if you have any questions or suggestions contact me on twitter (@GloriaAnimator) or
+on discord (GloriaTheAnimator#0165)
+ill add them to a future Q&A for this shader here
+
+
+legal license
+you may use this for commercial projects, personal projects and educational projects,
+but you may not sell this shader but you may sell meshes that use it
+as long as the product being sold is not the shader
+by using this shader you agree to the terms stated above
